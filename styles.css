@@ -1,0 +1,145 @@
+#title{
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.container-fluid{
+  padding: 0 15%;
+}
+h2{
+    font-family: 'Anton', sans-serif;
+}
+
+h3{
+  font-family: 'Anton', sans-serif;
+  color: #39311d;
+}
+
+h1{
+  font-family: 'Anton', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+/*navigation Bar*/
+
+.navbar{
+  padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat-light";
+}
+
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+/*title-image*/
+.title-image{
+  width: 100%;
+  /*transform: rotate(25deg);*/
+}
+
+/*features section*/
+
+#features{
+  padding: 7% 15%;
+}
+
+.feature-box{
+  text-align: center;
+}
+
+.icon{
+  color: #ef8172;
+  margin: 1rem;
+}
+
+/*double color on icon*/
+.icon:hover{
+  color: #ff4c68;
+}
+
+/*Testimonials*/
+
+#testimonials {
+  padding: 7% 15%;
+  Text-align: center;
+  background-color: #ef8172;
+}
+
+.testimonials-image{
+  width: 22%;
+  border-radius: 100%;
+}
+
+.em{
+  font-family: 'Anton', sans-serif;
+}
+
+#Advisors{
+
+  background-color: #ef8172;
+  font-family: 'Anton', sans-serif;
+  color: #39311d;
+  }
+.col-4{
+   margin: 0 10px;
+   width: 150px;
+   height: 130px;
+}
+
+.overlay{
+  font-family: 'Anton', sans-serif;
+  color: #214252;
+}
+
+
+#cta{
+  background-color: #ff4c68;
+  color: #9ad3bc;
+  padding: 2% 15%;
+  text-align: center;
+  }
+.cta-heading{
+  font-family: 'Anton', sans-serif;
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+
+/*footer section*/
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.social.icon{
+  20px 10px;
+}
+
+/*Images*/
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 5px;
+
+
+}
+
+h6{
+  font-family: 'Anton', sans-serif;
+  font-size: 2rem;
+  text-align: center;
+  color: #aa3a3a;
+}
